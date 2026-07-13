@@ -1,3 +1,4 @@
+<img url=
 <h1 align="center">Hi 👋, I'm Akram Hossain</h1>
 <h3 align="center">Passionate web designer, developer, and WordPress expert with a strong focus on creating user-friendly, responsive websites</h3>
 
