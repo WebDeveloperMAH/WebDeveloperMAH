@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEfuSZX4ciVAw/profile-displaybackgroundimage-shrink_200_800/B4EZ9y.vBYJ0AQ-/0/1784340476225?e=1786579200&v=beta&t=YIIlCCqjPHN8HwKvqOTFE5sUEbEbuLOgyIBY8H1xNoI">
+<img style="aline: Center; src="https://media.licdn.com/dms/image/v2/D4E16AQEfuSZX4ciVAw/profile-displaybackgroundimage-shrink_200_800/B4EZ9y.vBYJ0AQ-/0/1784340476225?e=1786579200&v=beta&t=YIIlCCqjPHN8HwKvqOTFE5sUEbEbuLOgyIBY8H1xNoI">
 <h1 align="center">Hi 👋, I'm Akram Hossain</h1>
 <h3 align="center">Passionate web designer, developer, and WordPress expert with a strong focus on creating user-friendly, responsive websites</h3>
 
